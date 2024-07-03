@@ -1,1 +1,3 @@
-# E-Commerce_DBMS_GUI
+# Project Description
+
+It is a database project where MySQL Workbencg was used for backend and PyQt5 was used for frontend development. E-Commerce related dataset was used for this project. The database was divided into operational database and analytical database. Operational database was created based on the ER diagram and Relational Schema, whereas Analytical database was created using Star Schema. Operational database handled the CRUD operations which were done by the user via frontend. Data in the analytical database is received from the operational database through data warehousing concepts. The data from the analytical database was used to display the graphical trends in the frontend which included various concepts like market segmentation, association rule mining, affinity analysis, market-basket analysis, time - based analysis.
